@@ -4,8 +4,7 @@
 
 ## 💬 Sobre mim:
 
-- 🎓 Técnico em Informática  
-- 💻 Graduando em Ciência da Computação  
+- 💻 Graduado em Ciência da Computação  
 - 🚀 Atuo como Desenvolvedor Full-Stack  
 - 🛠 Desenvolvimento Web | DevOps | Automações
 
@@ -29,20 +28,11 @@
 
 ---
 
-## 📊 GitHub Stats:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=radical" height="150"/>
-</p>
-
----
 
 ## 🌐 Redes sociais:
 
 <p align="center">
-  <a href="https://seuportifolio.com"><img src="https://img.shields.io/badge/Portfólio-FF4088?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/seuusuario"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:seuemail@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/felipe-do-carmo-69587118b"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:fcarmo072@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
